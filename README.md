@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevynTang&title_color=FFC107&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="My Most Uesed Lang" />
 
